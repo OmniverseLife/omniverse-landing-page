@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+.DS_Store
+.vercel/
+
+# Editor specific
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
